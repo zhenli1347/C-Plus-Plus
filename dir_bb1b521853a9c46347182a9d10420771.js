@@ -1,7 +1,8 @@
 var dir_bb1b521853a9c46347182a9d10420771 =
 [
+    [ "binary_insertion_sort.cpp", "d8/dcc/binary__insertion__sort_8cpp.html", "d8/dcc/binary__insertion__sort_8cpp" ],
     [ "bogo_sort.cpp", "d5/ddb/bogo__sort_8cpp.html", "d5/ddb/bogo__sort_8cpp" ],
-    [ "bubble_sort.cpp", "d8/d13/bubble__sort_8cpp.html", "d8/d13/bubble__sort_8cpp" ],
+    [ "bubble_sort.cpp", "d8/d13/bubble__sort_8cpp.html", null ],
     [ "comb_sort.cpp", "d9/dfd/comb__sort_8cpp.html", "d9/dfd/comb__sort_8cpp" ],
     [ "count_inversions.cpp", "d2/d26/count__inversions_8cpp.html", "d2/d26/count__inversions_8cpp" ],
     [ "cycle_sort.cpp", "de/d07/cycle__sort_8cpp.html", "de/d07/cycle__sort_8cpp" ],
@@ -19,6 +20,7 @@ var dir_bb1b521853a9c46347182a9d10420771 =
     [ "radix_sort2.cpp", "d8/d61/radix__sort2_8cpp.html", "d8/d61/radix__sort2_8cpp" ],
     [ "random_pivot_quick_sort.cpp", "d1/daa/random__pivot__quick__sort_8cpp.html", "d1/daa/random__pivot__quick__sort_8cpp" ],
     [ "recursive_bubble_sort.cpp", "d3/df9/recursive__bubble__sort_8cpp.html", "d3/df9/recursive__bubble__sort_8cpp" ],
+    [ "selection_sort_recursive.cpp", "d4/d9f/selection__sort__recursive_8cpp.html", "d4/d9f/selection__sort__recursive_8cpp" ],
     [ "shell_sort2.cpp", "d4/d7a/shell__sort2_8cpp.html", "d4/d7a/shell__sort2_8cpp" ],
     [ "strand_sort.cpp", "dc/dd9/strand__sort_8cpp.html", "dc/dd9/strand__sort_8cpp" ],
     [ "wave_sort.cpp", "db/d3f/wave__sort_8cpp.html", "db/d3f/wave__sort_8cpp" ],
