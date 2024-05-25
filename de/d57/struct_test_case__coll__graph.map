@@ -1,0 +1,9 @@
+<map id="TestCase" name="TestCase">
+<area shape="rect" id="Node000001" title="represents single example inputs and expected output of the function longest_common_string_length" alt="" coords="81,198,159,223"/>
+<area shape="rect" id="Node000002" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string.html" title=" " alt="" coords="28,94,108,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,133,96,172,112,196,108,199,92,175,74,136"/>
+<area shape="rect" id="Node000003" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/string/basic_string.html" title=" " alt="" coords="5,5,131,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,62,71,93,65,93,65,62"/>
+<area shape="rect" id="Node000004" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/types/size_t.html" title=" " alt="" coords="132,94,215,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,135,146,175,131,198,127,196,142,172,161,133"/>
+</map>
